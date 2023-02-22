@@ -2,7 +2,7 @@
 
 MERN STACK 
 
-Want to collaborate ? Send dm.
+Want to collaborate ? Send DM.
 
 <!--
 **Nirvana55/nirvana55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
