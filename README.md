@@ -4,6 +4,8 @@ MERN STACK
 
 DM for collab.
 
+![Snake animation](https://github.com/Nirvana55/Nirvana55/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Nirvana55/nirvana55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
