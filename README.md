@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Professionally:
- MERN / PERN STACK 
+**Professionally:**
+ * MERN / PERN STACK. 
 
-Hobby:
- PYTHON 
+**Hobby:** 
+ * PYTHON. 
 
 DM for collab.
 
