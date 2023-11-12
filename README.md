@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-PROFESSIONALLY:
+Professionally:
  MERN / PERN STACK 
 
-HOBBY:
+Hobby:
  PYTHON 
 
 DM for collab.
