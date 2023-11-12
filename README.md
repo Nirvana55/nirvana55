@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-MERN STACK 
+MERN / PERN STACK 
 
 DM for collab.
 
